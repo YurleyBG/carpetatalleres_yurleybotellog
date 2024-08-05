@@ -5,17 +5,16 @@ Cuenta  con varios ejercicios desarrollados en pseint
 ## Tabla De Contenido
 
 | Índice | Título |
-|--|------|
-| 1 | Ejercicio 1|
-| 2 | Ejercicio 2|
-| 3 | Ejercicio 3|
-| 4 | Ejercicio 4|
-| 5 | Ejercicio 5|
-| 6 | Ejercicio 6|
-| 7 | Ejercicio 7|
-| 8 | Ejercicio 8|
-| 9 | Ejercicio 10|
-
+|--|------|------|
+| 1 | Dia1 |Algoritmos |
+| 2 | Dia2 | Ejercicios metodologícos|
+| 3 | Dia 3| algoritmos lógicos|
+| 4 | Dia 4 |funciones básica|
+| 5 | Dia 5 |Ciclos|
+| 6 | Dia 6| Funciones|
+| 7 | Dia 7|CRUD|
+| 8 | Dia 8| Arrays|
+| 9 | Dia 10| Ejercicios metodologícos|
 ## Instalación
 
 Deberas ejecutar el siguiente comando para clonar el repositorio y ver cada uno de los proyectos  desde tu maquina local:
