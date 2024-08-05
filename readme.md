@@ -4,7 +4,7 @@ Cuenta  con varios ejercicios desarrollados en pseint
 
 ## Tabla De Contenido
 
-| Índice | Título |
+| Índice | Título |Descripción|
 |--|------|------|
 | 1 | Dia1 |Algoritmos |
 | 2 | Dia2 | Ejercicios metodologícos|
